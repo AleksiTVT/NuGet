@@ -1,0 +1,1 @@
+C:\koulu_ohjelmointi\kevat_2023\kevat_2023_tehtavat\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
